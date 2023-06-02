@@ -1,0 +1,17 @@
+{
+
+  "name": "wasm_examples",
+  "version": "1.0.0",
+  "description": "WASM examples",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.5.1",
+    "node-fetch": "^3.3.1"
+  }
+}
